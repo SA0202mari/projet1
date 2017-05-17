@@ -1,0 +1,20 @@
+{
+  "name": "proyectomari",
+  "homepage": "https://github.com/SA0202mari/projet1",
+  "authors": [
+    "SA0202mari <maricruz.santiago@alumno.uttehuacan.edu.mx>"
+  ],
+  "description": "holaa",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
