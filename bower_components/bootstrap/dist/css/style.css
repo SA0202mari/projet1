@@ -1,5 +1,8 @@
-.features .glyphicon{
+.features .glyphicon {
   font-size: 32px;
+}
+body{
+  padding-top: 70px;
 }
 .footer{
   padding: 20px 0;
@@ -19,17 +22,16 @@ body{
 }
 .footer{
   color: #efefef;
-  background-color: #333;
+  background-color:  #333;
 }
 .footer a{
-  color: #9af7fe
+  color: #9af7fe;
 }
-@media only screen and (max-width:768px) {
+@media only screen and (max-width:768px){
   body{
-    margin-bottom: 400px;
+    margin-bottom: 300px;
   }
-  footer{
-    height: 400px;
-  }
-
+.footer{
+  height: 300px; font-size: 0.8em;
+}
 }
